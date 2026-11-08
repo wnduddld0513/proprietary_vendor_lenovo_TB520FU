@@ -689,6 +689,56 @@ PRODUCT_COPY_FILES += \
     vendor/lenovo/TB520FU/proprietary/vendor/firmware/novatek_ts_tianma_fw.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/novatek_ts_tianma_fw.bin \
     vendor/lenovo/TB520FU/proprietary/vendor/firmware/novatek_ts_tianma_mp.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/novatek_ts_tianma_mp.bin \
     vendor/lenovo/TB520FU/proprietary/vendor/firmware/wigig.ini:$(TARGET_COPY_OUT_VENDOR)/firmware/wigig.ini \
+    vendor/lenovo/TB520FU/proprietary/vendor/lib64/bm4a68v08s12n52.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/bm4a68v08s12n52.bin \
+    vendor/lenovo/TB520FU/proprietary/vendor/lib64/bm4a68v08s12n53.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/bm4a68v08s12n53.bin \
+    vendor/lenovo/TB520FU/proprietary/vendor/lib64/bm4a73v08s12n02.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/bm4a73v08s12n02.bin \
+    vendor/lenovo/TB520FU/proprietary/vendor/lib64/bm4a73v08s12n03.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/bm4a73v08s12n03.bin \
+    vendor/lenovo/TB520FU/proprietary/vendor/lib64/bm4a73v08s12n04.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/bm4a73v08s12n04.bin \
+    vendor/lenovo/TB520FU/proprietary/vendor/lib64/bm4a73v08s12n06.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/bm4a73v08s12n06.bin \
+    vendor/lenovo/TB520FU/proprietary/vendor/lib64/bm4a73v08s12n07.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/bm4a73v08s12n07.bin \
+    vendor/lenovo/TB520FU/proprietary/vendor/lib64/bm4a73v08s12n12.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/bm4a73v08s12n12.bin \
+    vendor/lenovo/TB520FU/proprietary/vendor/lib64/bm4a73v08s12n13.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/bm4a73v08s12n13.bin \
+    vendor/lenovo/TB520FU/proprietary/vendor/lib64/bm4a73v08s12n14.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/bm4a73v08s12n14.bin \
+    vendor/lenovo/TB520FU/proprietary/vendor/lib64/bm4a73v08s12n15.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/bm4a73v08s12n15.bin \
+    vendor/lenovo/TB520FU/proprietary/vendor/lib64/bm4a73v08s12n16.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/bm4a73v08s12n16.bin \
+    vendor/lenovo/TB520FU/proprietary/vendor/lib64/bm4a73v08s12n17.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/bm4a73v08s12n17.bin \
+    vendor/lenovo/TB520FU/proprietary/vendor/lib64/bm4a73v08s12n18.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/bm4a73v08s12n18.bin \
+    vendor/lenovo/TB520FU/proprietary/vendor/lib64/bm4a73v08s12n19.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/bm4a73v08s12n19.bin \
+    vendor/lenovo/TB520FU/proprietary/vendor/lib64/bm4a73v08s12n20.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/bm4a73v08s12n20.bin \
+    vendor/lenovo/TB520FU/proprietary/vendor/lib64/bm4a73v08s12n21.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/bm4a73v08s12n21.bin \
+    vendor/lenovo/TB520FU/proprietary/vendor/lib64/bm4a73v08s12n22.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/bm4a73v08s12n22.bin \
+    vendor/lenovo/TB520FU/proprietary/vendor/lib64/bm4a73v08s12n23.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/bm4a73v08s12n23.bin \
+    vendor/lenovo/TB520FU/proprietary/vendor/lib64/bm4a73v08s12n24.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/bm4a73v08s12n24.bin \
+    vendor/lenovo/TB520FU/proprietary/vendor/lib64/bm4a73v08s12n25.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/bm4a73v08s12n25.bin \
+    vendor/lenovo/TB520FU/proprietary/vendor/lib64/bm4a73v08s12n26.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/bm4a73v08s12n26.bin \
+    vendor/lenovo/TB520FU/proprietary/vendor/lib64/bm4a73v08s12n27.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/bm4a73v08s12n27.bin \
+    vendor/lenovo/TB520FU/proprietary/vendor/lib64/bm4a73v08s12n28.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/bm4a73v08s12n28.bin \
+    vendor/lenovo/TB520FU/proprietary/vendor/lib64/bm4a73v08s12n29.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/bm4a73v08s12n29.bin \
+    vendor/lenovo/TB520FU/proprietary/vendor/lib64/bm4a73v08s12n30.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/bm4a73v08s12n30.bin \
+    vendor/lenovo/TB520FU/proprietary/vendor/lib64/bm4a73v08s12n35.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/bm4a73v08s12n35.bin \
+    vendor/lenovo/TB520FU/proprietary/vendor/lib64/bm4a73v08s12n36.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/bm4a73v08s12n36.bin \
+    vendor/lenovo/TB520FU/proprietary/vendor/lib64/bm4a73v08s12n37.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/bm4a73v08s12n37.bin \
+    vendor/lenovo/TB520FU/proprietary/vendor/lib64/bm4a73v08s12n38.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/bm4a73v08s12n38.bin \
+    vendor/lenovo/TB520FU/proprietary/vendor/lib64/bm4a73v08s12n39.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/bm4a73v08s12n39.bin \
+    vendor/lenovo/TB520FU/proprietary/vendor/lib64/bm4a73v08s12n40.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/bm4a73v08s12n40.bin \
+    vendor/lenovo/TB520FU/proprietary/vendor/lib64/bm4a73v08s12n43.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/bm4a73v08s12n43.bin \
+    vendor/lenovo/TB520FU/proprietary/vendor/lib64/bm4a73v08s12n44.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/bm4a73v08s12n44.bin \
+    vendor/lenovo/TB520FU/proprietary/vendor/lib64/bm4a73v08s12n45.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/bm4a73v08s12n45.bin \
+    vendor/lenovo/TB520FU/proprietary/vendor/lib64/bm4a73v08s12n46.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/bm4a73v08s12n46.bin \
+    vendor/lenovo/TB520FU/proprietary/vendor/lib64/bm4a73v08s12n47.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/bm4a73v08s12n47.bin \
+    vendor/lenovo/TB520FU/proprietary/vendor/lib64/bm4a73v08s12n48.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/bm4a73v08s12n48.bin \
+    vendor/lenovo/TB520FU/proprietary/vendor/lib64/bm4a73v08s12n49.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/bm4a73v08s12n49.bin \
+    vendor/lenovo/TB520FU/proprietary/vendor/lib64/bm4a73v08s12n50.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/bm4a73v08s12n50.bin \
+    vendor/lenovo/TB520FU/proprietary/vendor/lib64/bm4a73v08s12n51.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/bm4a73v08s12n51.bin \
+    vendor/lenovo/TB520FU/proprietary/vendor/lib64/bm4a73v08s12n54.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/bm4a73v08s12n54.bin \
+    vendor/lenovo/TB520FU/proprietary/vendor/lib64/bm4a73v08s12n55.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/bm4a73v08s12n55.bin \
+    vendor/lenovo/TB520FU/proprietary/vendor/lib64/bm4a73v08s12n56.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/bm4a73v08s12n56.bin \
+    vendor/lenovo/TB520FU/proprietary/vendor/lib64/bm4a73v08s12n57.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/bm4a73v08s12n57.bin \
+    vendor/lenovo/TB520FU/proprietary/vendor/lib64/bm4a73v08s12n58.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/bm4a73v08s12n58.bin \
+    vendor/lenovo/TB520FU/proprietary/vendor/lib64/bm4a73v08s12n59.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/bm4a73v08s12n59.bin \
+    vendor/lenovo/TB520FU/proprietary/vendor/lib64/bm4a73v08s12n60.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/bm4a73v08s12n60.bin \
+    vendor/lenovo/TB520FU/proprietary/vendor/lib64/bm4a73v08s12n61.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/bm4a73v08s12n61.bin \
+    vendor/lenovo/TB520FU/proprietary/vendor/lib64/bm4a73v08s12n62.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/bm4a73v08s12n62.bin \
     vendor/lenovo/TB520FU/proprietary/vendor/lib64/camera/bitmlconfig.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/bitmlconfig.bin \
     vendor/lenovo/TB520FU/proprietary/vendor/lib64/camera/bitmlconfig_sm8635.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/bitmlconfig_sm8635.bin \
     vendor/lenovo/TB520FU/proprietary/vendor/lib64/camera/camxfl115indices.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/camxfl115indices.bin \
