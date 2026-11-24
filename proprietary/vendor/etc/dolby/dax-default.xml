@@ -330,7 +330,7 @@
       <advanced-headphone-virtualizer-lr-angle value="45"/>
       <endpoint_type id="speaker">
         <include ieq_preset="2"/>
-        <ieq-enable value="false"/>
+        <ieq-enable value="true"/>
         <ieq-amount value="6"/>
         <calibration-boost value="0"/>
         <mi-dialog-enhancer-steering-enable value="true"/>
@@ -436,7 +436,7 @@
       <advanced-headphone-virtualizer-lr-angle value="45"/>
       <endpoint_type id="speaker">
         <include ieq_preset="2"/>
-        <ieq-enable value="false"/>
+        <ieq-enable value="true"/>
         <ieq-amount value="12"/>
         <calibration-boost value="0"/>
         <mi-dialog-enhancer-steering-enable value="true"/>
@@ -542,7 +542,7 @@
       <advanced-headphone-virtualizer-lr-angle value="45"/>
       <endpoint_type id="speaker">
         <include ieq_preset="2"/>
-        <ieq-enable value="false"/>
+        <ieq-enable value="true"/>
         <ieq-amount value="6"/>
         <calibration-boost value="0"/>
         <mi-dialog-enhancer-steering-enable value="false"/>
@@ -648,7 +648,7 @@
       <advanced-headphone-virtualizer-lr-angle value="45"/>
       <endpoint_type id="speaker">
         <include ieq_preset="2"/>
-        <ieq-enable value="false"/>
+        <ieq-enable value="true"/>
         <ieq-amount value="6"/>
         <calibration-boost value="0"/>
         <mi-dialog-enhancer-steering-enable value="false"/>
@@ -754,7 +754,7 @@
       <advanced-headphone-virtualizer-lr-angle value="45"/>
       <endpoint_type id="speaker">
         <include ieq_preset="2"/>
-        <ieq-enable value="false"/>
+        <ieq-enable value="true"/>
         <ieq-amount value="6"/>
         <calibration-boost value="0"/>
         <mi-dialog-enhancer-steering-enable value="true"/>
@@ -860,7 +860,7 @@
       <advanced-headphone-virtualizer-lr-angle value="45"/>
       <endpoint_type id="speaker">
         <include ieq_preset="2"/>
-        <ieq-enable value="false"/>
+        <ieq-enable value="true"/>
         <ieq-amount value="6"/>
         <calibration-boost value="0"/>
         <mi-dialog-enhancer-steering-enable value="true"/>
@@ -966,7 +966,7 @@
       <advanced-headphone-virtualizer-lr-angle value="45"/>
       <endpoint_type id="speaker">
         <include ieq_preset="2"/>
-        <ieq-enable value="false"/>
+        <ieq-enable value="true"/>
         <ieq-amount value="6"/>
         <calibration-boost value="0"/>
         <mi-dialog-enhancer-steering-enable value="true"/>
@@ -1072,7 +1072,7 @@
       <advanced-headphone-virtualizer-lr-angle value="45"/>
       <endpoint_type id="speaker">
         <include ieq_preset="2"/>
-        <ieq-enable value="false"/>
+        <ieq-enable value="true"/>
         <ieq-amount value="6"/>
         <calibration-boost value="0"/>
         <mi-dialog-enhancer-steering-enable value="true"/>
@@ -1178,7 +1178,7 @@
       <advanced-headphone-virtualizer-lr-angle value="45"/>
       <endpoint_type id="speaker">
         <include ieq_preset="2"/>
-        <ieq-enable value="false"/>
+        <ieq-enable value="true"/>
         <ieq-amount value="6"/>
         <calibration-boost value="0"/>
         <mi-dialog-enhancer-steering-enable value="true"/>
